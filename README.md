@@ -1,3 +1,3 @@
 # My emojis 🎸🤘🏼🎤
 
-Samll game with emojis for JavaScript practice
+Small game with emojis for JavaScript practice
